@@ -4,15 +4,17 @@ a far from perfect pacman game made in c#
 Problem: 
 -High score system not completed 
 
-INSTRUCTIONS ON MAKING THIS GAME WORK (MUST HAVE ADMIN PRIVILEGES)
+INSTRUCTIONS ON MAKING THIS GAME WORK:
 
-type command in terminal:
+1. Obtain superuser (su) preferences 
+
+2. Once you have done that, type command in terminal:
 
 sudo chmod -R 755 + filepath
 
-control+click (right click) then click open (don't double click) to open while override MacOS app security protocol (won't open otherwise)
+3. control+click (right click) then click open (don't double click) to open while override MacOS app security protocol (won't open otherwise)
 
-Select a resolution of your preference, and enjoy the game!
+4. Select a resolution of your preference, and enjoy the game!
 
-When you die, be advised that the menu button stops working. Press esc to return to main menu and start a new game.
+5. When you die, be advised that the menu button stops working (i'm sorry). Press esc to return to main menu and start a new game.
 
