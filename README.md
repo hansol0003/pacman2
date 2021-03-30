@@ -1,8 +1,6 @@
 # pacman2
 A far-from-perfect pacman game made with Unity and C#
 
-Problem: High score system not completed 
-
 INSTRUCTIONS ON MAKING THIS GAME WORK:
 
 1. Obtain superuser (su) preferences 
