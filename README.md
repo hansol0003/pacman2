@@ -2,8 +2,11 @@
 A far-from-perfect pacman game made with Unity and C#
 
 INSTRUCTIONS ON MAKING THIS GAME WORK:
+0. If you have admin privileges, skip step 1.
 
-1. Obtain superuser (su) preferences 
+1. Obtain superuser (su) privileges
+
+https://zwbetz.com/add-your-account-as-a-sudoer-on-mac/ <--- use this link if you get stuck
 
 2. Once you have done that, type command in terminal:
 
