@@ -16,5 +16,5 @@ sudo chmod -R 755 + filepath
 
 4. Select a resolution of your preference, and enjoy the game!
 
-5. When you die, be advised that the menu button stops working (i'm sorry). Press esc to return to main menu and start a new game.
+5. When you die, the menu button stops working. Press esc to return to main menu and start a new game.
 
