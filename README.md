@@ -19,5 +19,5 @@ This allows you access into the file (assuming you get the "you don't have permi
 
 4. Select a resolution of your preference, and enjoy the game!
 
-5. When you die, the menu button stops working. Press esc to return to main menu and start a new game.
+5. When you spend all 3 lives, the menu button stops working. Press esc to return to main menu and start a new game.
 
