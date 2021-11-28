@@ -1,7 +1,7 @@
 # pacman2
 A far-from-perfect pacman game made with Unity and C#
 
-INSTRUCTIONS ON MAKING THIS GAME WORK:
+INSTRUCTIONS ON MAKING THIS GAME WORK (TESTED ON MAC, PLEASE VERIFY IF IT WORKS ON WINDOWS):
 
 0. If you have admin privileges, skip step 1.
 
